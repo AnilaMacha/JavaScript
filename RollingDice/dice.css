@@ -1,0 +1,29 @@
+body{
+  text-align: center;
+}
+button{
+  padding:10px 15px;
+  background-color: rgb(74, 176, 213);
+  color:white;
+  border:none;
+  border-radius: 5px;
+  font-size: medium;
+  cursor: pointer;
+}
+#text{
+  padding: 10px;
+  font-size: medium;
+  border-radius: 5px;
+}
+label{
+  font-size: medium;
+  font-weight:bold
+}
+#diceResult{
+  font-weight: bold;
+  font-size: large;
+}
+img{
+  width:70px;
+  margin:10px;
+}
